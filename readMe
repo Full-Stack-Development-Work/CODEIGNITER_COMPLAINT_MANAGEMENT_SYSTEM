@@ -1,0 +1,31 @@
+How to run the ComplaintMS-CI:
+
+1. Download the  zip file
+
+2. Extract the file and copy ComplaintMS-CI folder
+
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+**Recommended PHP version 5.6, 7.4**
+
+5. Create a database with name complaintsci
+
+6. Import complaintsci.sql file(given inside the zip package in DATABASE FILE  folder)
+
+7.Run the script http://localhost/ComplaintMS-CI (frontend)
+
+8. For admin Panel http://localhost/ComplaintMS-CI
+
+**Admin Login Details** 
+
+Email	: admin@mail.com
+Password: Password@123
+
+
+**User Login Details** 
+
+Email	: tiffo@mail.com
+Password: Password@123
+
